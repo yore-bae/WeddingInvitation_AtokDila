@@ -1,0 +1,43 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.COVER {
+  padding-top: 25vh;
+  padding-bottom: 25vh;
+  height: 100vh;
+}
+
+.KONTEN {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  height: 100vh;
+}
+
+.font-MeaCulpa {
+  font-family: 'Mea Culpa', cursive;
+}
+
+/* .font-Quicksand {
+  font-family: 'Quicksand', sans-serif;
+} */
+
+.fs-nama {
+  font-size: 50px;
+}
+
+.fs-jam {
+  font-size: 30px;
+}
+
+.mt-n1 {
+  margin-top: -10px;
+}
+
+.mt-n2 {
+  margin-top: -20px;
+}
+
+.mt-n3 {
+  margin-top: -30px;
+}
